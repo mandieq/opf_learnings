@@ -1,6 +1,6 @@
 # Ecosystem Learnings - OpenPOWER Foundation
 
-Material from a recent session focused on ecosystem learnings from the OpenPOWER Foundation.
+Material from a 2019 session focused on ecosystem learnings from the OpenPOWER Foundation.
 
 Created using [reveal-md](https://github.com/webpro/reveal-md) as a front end for the  [reveal.js](https://revealjs.com/#/) framework.
 
